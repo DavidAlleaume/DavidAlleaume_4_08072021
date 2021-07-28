@@ -287,6 +287,10 @@ a:hover {
     font-size: 40px;
 }
 
+#bloc-5-cta h2 {
+    margin: 0 20px 10px 20px;
+}
+
 @media (max-width: 768px) {
     #bloc-1-hero h1 {
         font-size: 32px;
@@ -747,12 +751,13 @@ h4 {
 }
 
 .portfolio-thumb {
+    margin: auto;
     margin-bottom: 24px;
 }
 
 .portfolio-row {
-    margin-bottom: 44px;
-    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-top: 30px;
 }
 
 .avatar {
