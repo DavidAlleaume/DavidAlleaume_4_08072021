@@ -377,8 +377,8 @@ a:hover {
     justify-content: flex-end;
     align-items: center;
     height: 50px;
-    background-color: #8a3b3f;
-    border-bottom: 1px solid #FFFFFF;
+    background-color: #303030;
+    border-bottom: 2px solid #8a3b3f;
 }
 
 .header-navigation ul {
@@ -815,7 +815,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #4d5980;
+    background-color: rgba(187, 175, 142, 0.7);
 }
 
 .bgc-atomic-tangerine {
