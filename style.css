@@ -3,6 +3,7 @@ body {
     padding: 0;
     background: #FFF;
     overflow-x: hidden;
+    min-width: 230px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -879,6 +880,19 @@ blockquote {
     margin-top: 30px;
 }
 
+.col-sm-contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    height: 100px;
+}
+
+.col-sm-contact a {
+    font-size: 18px;
+    color: #af4b50!important;
+}
+
 
 @media (max-width: 1024px) {
     .bloc {
@@ -972,6 +986,7 @@ blockquote {
         margin-left: 0;
         margin-right: 0;
     }
+
     .site-navigation {
         position: inherit;
         transform: none;
