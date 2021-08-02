@@ -292,8 +292,16 @@ a:hover {
     font-size: 40px;
 }
 
+#bloc-1-hero .bloc-lg {
+    padding: 50px;
+}
+
 #bloc-5-cta h2 {
     margin: 0 20px 10px 20px;
+}
+
+#bloc-5-cta .bloc-lg {
+    padding: 50px;
 }
 
 @media (max-width: 768px) {
